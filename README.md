@@ -90,7 +90,7 @@ se usa igualmente repetir programa por si se requiere usar el programa de nuevo
 ```
 se usa if o else dependiendo de la opcion elegida, esto decidirá si el programa se repite, o si genera un texto de despedida y cerrar el programa
 
-8. se crea main para que corra todo el programa:
+8. se define main para que ejecute todo el programa anterior:
 ```python
 def main():
     __elegir_opciones()
